@@ -1,10 +1,8 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red56\green101\blue115;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c27451\c47059\c52549;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
+Laboratory Development Notes
+Supplementary laboratory notes documenting the phases of the project, including circuit development, testing, and experimental observations, are included. These notes are provided in their original handwritten form to preserve the chronological and transparent record of the experimental development of the work:
 
-\f0\fs32 \cf2 \expnd0\expndtw0\kerning0
-Supplementary videos can also be found via {\field{\*\fldinst{HYPERLINK "https://uppsalauniversitet.sharepoint.com/:f:/s/ExperimentDataStorage/IgCFy1wVB4HkRpqAxer68bemAT2Cgn8RKIXAB_m3uKyTPoI?e=RkIy9r"}}{\fldrslt \cf3 \ul \ulc3 this link (requires UU access)}}. }
+https://web.goodnotes.com/s/xlsEbIUI6iuXck66CYKlLw
+
+If the Goodnotes link no longer works, the file can be also found via this url (requires UU access):
+
+https://uppsalauniversitet.sharepoint.com/sites/ExperimentDataStorage/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FExperimentDataStorage%2FShared%20Documents%2FBachelor%20proejcts%2FHaze%20Newman%202026%2FMedia%2FSupplementary%5FLab%5FNotes%2Flaboratory%5Fdevelopment%5Fnotes%5Fcompressed%2Epdf&parent=%2Fsites%2FExperimentDataStorage%2FShared%20Documents%2FBachelor%20proejcts%2FHaze%20Newman%202026%2FMedia%2FSupplementary%5FLab%5FNotes&p=true&ga=1
