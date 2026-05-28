@@ -3,6 +3,12 @@
 Discrete hardware implementation of the HN Axon Cell, a biologically inspired integrate-and-fire neuron for real-time light-direction classification using a 3×3 LDR sensor array, current mirrors, LTspice simulations, Arduino code, CAD models, and experimental data.
 
 ---
+## Thesis Poster
+<p align="center">
+  <a href="media/HN_PRINT_A0.jpg">
+    <img src="media/HN_PRINT_A0.jpg" width="1000">
+  </a>
+</p>
 
 ## Overview
 
